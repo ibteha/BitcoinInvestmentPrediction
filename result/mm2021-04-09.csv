@@ -1,0 +1,3 @@
+Current Time,Actual Ammount,Actual_BTC,O_BTC_DV,Invest_Amount,Invest_BTc,New_BTC,New_Amount,Prediction,New_BTC_DV,Decision
+19:38:00,18000,0.0,0.0,0.0,0.0,0.0,0.0,None,0.0,None
+19:39:37,18000,0.0,0.0,0.0,0.0,0.0,18000,Neutral,58244.99,True
